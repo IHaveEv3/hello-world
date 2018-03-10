@@ -5,5 +5,10 @@ hiYou333333
 yuraisthebest
 =======
 vasyaisthebest
+<<<<<<< HEAD
 >>>>>>> 9dccdb721c4e868f27b2b39f3c4487755922c6d4
 git branch
+=======
+vasya
+>>>>>>> vasya
+vasya
